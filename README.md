@@ -55,6 +55,11 @@ In particular, there are two possible directions:
 - Turn right
 - Turn left
 
+<p float="center">
+  <img src="ReadmeImg/boosterpack.jpg" alt="MSP432P401R" width="240" height="320">
+</p>
+<br>
+
 
 In this way, it is possible to select another character other than the firstly selected one.
 
