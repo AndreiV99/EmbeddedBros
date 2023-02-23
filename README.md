@@ -56,7 +56,7 @@ In particular, there are two possible directions:
 - Turn left
 
 <p float="center">
-  <img src="ReadmeImg/boosterpack.jpg" alt="MSP432P401R" width="240" height="320">
+  <img src="ReadmeImg/mario.jpg" alt="MSP432P401R" width="209" height="240">
 </p>
 <br>
 
