@@ -113,8 +113,10 @@ After few seconds, you can re-choose your character, to beat your best score!
 
 ## Video and Presentation
 
-[VIDEO](https://youtu.be/hIQrYghvn6U)
-[PRESENTATION](https://onedrive.live.com/edit.aspx?resid=71C1E9E7ACF08D9B!7438&ithint=file%2cpptx&authkey=!ArRmXMRZEtYa2KE)
+[VIDEO](https://youtu.be/hIQrYghvn6U)  --> [Youtube video containing the project simulation]
+
+[PRESENTATION](https://onedrive.live.com/edit.aspx?resid=71C1E9E7ACF08D9B!7438&ithint=file%2cpptx&authkey=!ArRmXMRZEtYa2KE) --> [Presentation of the project]
+
 # Team Members
 
 The project was made step by step together and by sharing 
