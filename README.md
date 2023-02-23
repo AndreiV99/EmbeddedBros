@@ -23,8 +23,8 @@ To use this project, you will need the following hardware:
 - [Educational BoosterPack MKII](https://www.ti.com/tool/BOOSTXL-EDUMKII)
 
 <p float="left">
-  <img src="ReadmeImg/MSP432P401R.jpg" alt="MSP432P401R" width="228" height="228">
-  <img src="ReadmeImg/BoosterPack.png" alt="BoosterPack" width="480" height="224">
+  <img src="ReadmeImg/MSP432P401R.jpg" alt="MSP432P401R" width="152" height="152">
+  <img src="ReadmeImg/BoosterPack.png" alt="BoosterPack" width="320" height="150">
 </p>
 <br> 
 
